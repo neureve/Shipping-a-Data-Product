@@ -2,3 +2,5 @@ telethon
 python-dotenv
 loguru
 psycopg2-binary
+ultralytics
+opencv-python
