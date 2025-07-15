@@ -7,3 +7,4 @@ opencv-python
 fastapi
 uvicorn
 psycopg2-binary
+dagster
