@@ -56,3 +56,4 @@ for date_dir in images_root.iterdir():
 conn.commit()
 cur.close()
 conn.close()
+# YOLOv8 Image Detection Script
