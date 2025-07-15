@@ -53,3 +53,4 @@ cur.close()
 conn.close()
 
 print("✅ All data loaded to PostgreSQL")
+

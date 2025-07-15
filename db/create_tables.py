@@ -32,3 +32,4 @@ cur.close()
 conn.close()
 
 print("✅ Table created")
+
