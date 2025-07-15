@@ -4,3 +4,6 @@ loguru
 psycopg2-binary
 ultralytics
 opencv-python
+fastapi
+uvicorn
+psycopg2-binary
